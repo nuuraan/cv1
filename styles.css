@@ -1,0 +1,17 @@
+h1{
+    color: rgb(0, 255, 21);
+    font-size: 200px;
+}
+img{
+    background-color: rgb(24, 155, 199);
+}
+.coconut{
+    background-color: blueviolet;
+    border-radius: 100%;
+}
+.coconut1{
+    background-color: brown;
+}
+img:hover{
+    background-color: gold;
+}
